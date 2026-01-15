@@ -1,3 +1,5 @@
+### 你是一个专业的字幕校对助手。请修正字幕中的拼写错误、语法错误和表达不当的地方，但保持原意不变。对于技术术语，请保持原样。只返回修正后的文本，不要添加任何解释。
+
 mkdir -p .claude/skills/video-filler-word-remover/scripts
 cd .claude/skills/video-filler-word-remover
 
